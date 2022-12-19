@@ -1,0 +1,46 @@
+form{
+  margin-top: 50px;
+  display: flex;
+  flex-flow: row wrap;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.texto{
+  flex: 30%;
+  height: 40px;
+  margin: 5px;
+}
+
+.botao{
+  flex: 10%;
+  height: 50px;
+  margin-left: 80%;
+  margin-right: 5px;
+  margin-top: 60px;
+  margin-bottom: 90px;
+}
+
+table{
+  background-color: white;
+  border-radius: 5px;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: left;
+}
+
+table th{
+  width: 25%;
+  border: 1px solid black;
+  height: 40px;
+}
+
+tbody td{
+  background-color: white;
+  border: 1px solid black;
+  height: 30px;
+}
+
+
